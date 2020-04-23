@@ -9,7 +9,7 @@ Is er iets kapot gegaan? geen probleem!
 Je gaat naar je documenten -> github en daar maak je een nieuwe map aan.
 Dan open je deze map in visual studio code en ga je naar de command line. 
 
-daar typ je dit command: 
+daar typ je dit command: *git clone https://github.com/cheaptrills/Addicationfrontend.git*
 
 Normaal zou hij nu bezig moeten zijn met het binnen te halen van dit project. 
 Als dit werkt kan je nu gewoon coderen en aanpassen.
